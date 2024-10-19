@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Admin/src/App.js",
-    "server": "node index.js"
+      "start": "node Admin/src/app.js",
+      "server": "nodemon Admin/src/app.js"
   },
   "author": "",
   "license": "ISC",
