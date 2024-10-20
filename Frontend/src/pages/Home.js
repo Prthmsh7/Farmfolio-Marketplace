@@ -51,14 +51,14 @@ const Home = () => {
           <div className="col-6">
             <div className="main-banner position-relative ">
               <img
-                src="images/main-banner-1.jpg"
+                src="images/Screenshot-(47).png"
                 className="img-fluid rounded-3"
                 alt="main banner"
               />
               <div className="main-banner-content position-absolute">
-                <h4>SUPERCHARGED FOR PROS.</h4>
-                <h5>iPad S13+ Pro.</h5>
-                <p>From Rs. 81,900.00 </p>
+                <h4>Shovel.</h4>
+                <h5>30% OFF</h5>
+                <p>From Rs. 2,900.00 </p>
                 <Link className="button">BUY NOW</Link>
               </div>
             </div>
@@ -72,10 +72,10 @@ const Home = () => {
                   alt="main banner"
                 />
                 <div className="small-banner-content position-absolute">
-                  <h4>Best Sake</h4>
-                  <h5>MacBook Pro.</h5>
+                  <h4>Hedge Clipper</h4>
+                  <h5>Price Drop</h5>
                   <p>
-                    From Rs. 1,29,900.00 <br />
+                    From Rs. 3,900.00 <br />
                   </p>
                 </div>
               </div>
@@ -86,10 +86,10 @@ const Home = () => {
                   alt="main banner"
                 />
                 <div className="small-banner-content position-absolute">
-                  <h4>NEW ARRIVAL</h4>
-                  <h5>But IPad Air</h5>
+                  <h4>Sickle</h4>
+                  <h5>15% OFF</h5>
                   <p>
-                    From Rs. 21,625.00 <br />
+                    From Rs. 1,625.00 <br />
                   </p>
                 </div>
               </div>
@@ -100,10 +100,10 @@ const Home = () => {
                   alt="main banner"
                 />
                 <div className="small-banner-content position-absolute">
-                  <h4>BEST CHOICES</h4>
-                  <h5>But IPad Air</h5>
+                  <h4>Push Cultivator</h4>
+                  <h5>20% OFF</h5>
                   <p>
-                    From Rs. 41,900.00 <br />
+                    From Rs. 4,900.00 <br />
                   </p>
                 </div>
               </div>
@@ -114,10 +114,10 @@ const Home = () => {
                   alt="main banner"
                 />
                 <div className="small-banner-content position-absolute">
-                  <h4>BEST CHOICES</h4>
-                  <h5>But Headphone</h5>
+                  <h4>Garden Cutter</h4>
+                  <h5>20% OFF</h5>
                   <p>
-                    From Rs. 41,000.00 <br />
+                    From Rs. 1,000.00 <br />
                   </p>
                 </div>
               </div>
@@ -293,56 +293,56 @@ const Home = () => {
           <div className="col-3">
             <div className="famous-card position-relative">
               <img
-                src="images/famous-1.webp"
+                src="images/wheelbarrow.jpg"
                 className="img-fluid"
                 alt="famous"
               />
               <div className="famous-content position-absolute">
-                <h5>Big Screen</h5>
-                <h6>Smart Watch Series 7</h6>
-                <p>From Rs. 399</p>
+                <h5>Wheel Barrow</h5>
+                <h6>Latest Price Drop</h6>
+                <p>From Rs. 4399</p>
               </div>
             </div>
           </div>
           <div className="col-3">
             <div className="famous-card position-relative">
               <img
-                src="images/famous-2.webp"
+                src="images/seeder1.jpg"
                 className="img-fluid"
                 alt="famous"
               />
               <div className="famous-content position-absolute">
-                <h5 className="text-dark">Studio Display</h5>
-                <h6 className="text-dark">600 nits of brightness.</h6>
-                <p className="text-dark">27-inch 5K Retina display</p>
+                <h5 className="text-dark">Seeder</h5>
+                <h6 className="text-dark">Latest Arrival</h6>
+                <p className="text-dark">Starting from Rs. 5000</p>
               </div>
             </div>
           </div>
           <div className="col-3">
             <div className="famous-card position-relative">
               <img
-                src="images/famous-3.webp"
+                src="images/handcultivator.jpg"
                 className="img-fluid"
                 alt="famous"
               />
               <div className="famous-content position-absolute">
-                <h5 className="text-dark">smartphones</h5>
-                <h6 className="text-dark">Iphone 14 Pro.</h6>
-                <p className="text-dark">Now in Green. From Rs. 61,000.00</p>
+                <h5 className="text-dark">Hand Cultivator</h5>
+                <h6 className="text-dark">20% OFF</h6>
+                <p className="text-dark">From Rs. 3,000.00</p>
               </div>
             </div>
           </div>
           <div className="col-3">
             <div className="famous-card position-relative">
               <img
-                src="images/famous-3.webp"
+                src="images/spraybottle.jpg"
                 className="img-fluid"
                 alt="famous"
               />
               <div className="famous-content position-absolute">
-                <h5 className="text-dark">home speakers</h5>
-                <h6 className="text-dark">Room-filling sound.</h6>
-                <p className="text-dark">From Rs. 699</p>
+                <h5 className="text-dark">Spray Bottle</h5>
+                <h6 className="text-dark">25% OFF</h6>
+                <p className="text-dark">From Rs. 1699</p>
               </div>
             </div>
           </div>
