@@ -3,6 +3,7 @@ const getTokenFromLocalStorage = localStorage.getItem("customer")
   ? JSON.parse(localStorage.getItem("customer"))
   : null;
 
+  
 export const config = {
   headers: {
     Authorization: `Bearer ${
@@ -11,3 +12,4 @@ export const config = {
     Accept: "application/json",
   },
 };
+
